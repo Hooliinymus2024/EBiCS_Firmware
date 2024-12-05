@@ -20,7 +20,7 @@
 #define DISPLAY_TYPE_KINGMETER      (DISPLAY_TYPE_KINGMETER_618U|DISPLAY_TYPE_KINGMETER_901U)
 #define EXTERNAL 1
 #define INTERNAL 0
-//----------------------------------------------------------------------
+//--------------------------------- -------------------------------------
 // advanced setting, don't touch, if you don't know what you are doing!
 #define TRIGGER_OFFSET_ADC 50
 #define TRIGGER_DEFAULT 2020
@@ -76,7 +76,7 @@
 //Speed settings
 #define WHEEL_CIRCUMFERENCE 2200
 #define GEAR_RATIO 98 //11 for BionX IGH3
-#define SPEEDLIMIT 25
+#define SPEEDLIMIT 50
 #define PULSES_PER_REVOLUTION 1
 #define SPEEDSOURCE EXTERNAL
 #define SPEEDFILTER 1
